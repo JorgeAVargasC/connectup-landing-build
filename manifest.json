@@ -1,0 +1,27 @@
+{
+  "short_name": "ConnectUp",
+  "name": "ConnectUp | AI Call QA Platform",
+  "icons": [
+    {
+      "src": "/images/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "1000x1000"
+    },
+    {
+      "src": "/images/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020618",
+  "theme_color": "#020618",
+  "display": "standalone",
+  "scope": "/",
+  "description": "Avoid compliance risks, save QA time and empower your call center with AI-driven evaluations, insights, and coaching."
+}
